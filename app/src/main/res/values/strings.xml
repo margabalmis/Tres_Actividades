@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tres_Actividades</string>
+    <string name="textoBoton1">Actividad 1</string>
+    <string name="textoBoton2">Actividad 2</string>
+    <string name="texto_actividad_2">Actividad 2</string>
+    <string name="texto_actividad_1">Actividad 1</string>
+</resources>
